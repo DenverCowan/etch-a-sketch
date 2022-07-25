@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  height: 300vh;
+}
+
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.square {
+  background-color: white;
+  color: white;
+  border: 1px solid green;
+  width: 20px;
+  height: 20px;
+}
