@@ -2,6 +2,7 @@
 const mainContainer = document.querySelector(".mainContainer");
 const resize = document.querySelector(".resize");
 const reset = document.querySelector(".reset");
+const random = document.querySelector(".random");
 
 //creates the default grid-squares for the page
 function defaultGrid() {
